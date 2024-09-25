@@ -22,8 +22,8 @@ Berikut adalah link untuk menginstall aplikasinya
 ![Screenshot_20240925-140118 (1)](https://github.com/user-attachments/assets/7940ef21-9e90-4ef1-9e04-23e6c54df237)
 ![Screenshot_20240925-140112 (1)](https://github.com/user-attachments/assets/4c55c5d2-98ee-454e-827c-3cba8824340c)
 
-## Thanks
-
+## Follow Me
+- [Instagram](https://www.instagram.com/tegrrp/)
 
 
 
