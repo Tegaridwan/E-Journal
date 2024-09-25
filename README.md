@@ -1,7 +1,7 @@
 # Absensi Prakerin Unipma
 
 Aplikasi absensi prakerin.
-![Vertical_Lockup_on_White_Background-removebg-preview](https://github.com/user-attachments/assets/eecfcdf4-4826-432e-95ab-c709e7dbcf26)
+
 
 
 ## Getting Started
