@@ -1,7 +1,7 @@
 # E-Journal Unipma
 
 Aplikasi E-Journal Unipma.
-Adalah aplikasi yang membantu siswa prakerin untuk absen dan menginput jurnal setiap kegiatanya
+Adalah aplikasi yang membantu siswa prakerin untuk absen dan menginput jurnal setiap kegiatanya.
 Aplikasi ini menggunakan framework flutter dan firebase sebagai databasenya
 
 
