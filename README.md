@@ -2,7 +2,7 @@
 
 <p Aplikasi E-Journal Unipma.>
 <p Adalah aplikasi yang membantu siswa prakerin untuk absen dan menginput jurnal setiap kegiatanya.>
-<p Aplikasi ini menggunakan framework flutter dan firebase sebagai databasenya>
+<p>Aplikasi ini menggunakan framework flutter dan firebase sebagai databasenya </p> 
 
 
 
