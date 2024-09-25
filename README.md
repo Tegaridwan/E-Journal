@@ -1,6 +1,7 @@
 # Absensi Prakerin Unipma
 
 Aplikasi absensi prakerin.
+Adalah aplikasi yang membantu siswa prakerin untuk absen dan menginput jurnal setiap kegiatanya
 
 
 
