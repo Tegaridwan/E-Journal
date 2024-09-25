@@ -14,4 +14,4 @@ Berikut adalah link untuk menginstall aplikasinya
 
 ## Tampilan Aplikasi
 <p  <img src="https://photos.app.goo.gl/jjUeDatZnn4Ng1MW8" alt="tegaridwan" /> </p>
-
+![Screenshot_20240925-140129](https://github.com/user-attachments/assets/35ff5531-48bb-450e-8e51-e0bb99e4bfd0)
