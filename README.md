@@ -1,6 +1,6 @@
-# Absensi Prakerin Unipma
+# E-Journal Unipma
 
-Aplikasi absensi prakerin.
+Aplikasi E-Journal Unipma.
 Adalah aplikasi yang membantu siswa prakerin untuk absen dan menginput jurnal setiap kegiatanya
 
 
