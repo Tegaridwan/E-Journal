@@ -13,4 +13,5 @@ Berikut adalah link untuk menginstall aplikasinya
 - Appstore (coming soon)
 
 ## Tampilan Aplikasi
+![Screenshot_20240925-140129](https://github.com/user-attachments/assets/42e551c7-f0a2-4027-afb5-471a6d48b193)
 
