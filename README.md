@@ -13,5 +13,5 @@ Berikut adalah link untuk menginstall aplikasinya
 - Appstore (coming soon)
 
 ## Tampilan Aplikasi
-<p  <img src="https://komarev.com/ghpvc/?username=tegaridwan&label=Profile%20views&color=0e75b6&style=flat](https://photos.app.goo.gl/BXRPpjW7JuENXWUX6" alt="tegaridwan" /> </p>
+<p  <img src="https://photos.app.goo.gl/jjUeDatZnn4Ng1MW8" alt="tegaridwan" /> </p>
 
