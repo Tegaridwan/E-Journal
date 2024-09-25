@@ -12,5 +12,5 @@ Berikut adalah link untuk menginstall aplikasinya
 - Amazon Appstore (cooming soon)
 - Appstore (cooming soon)
 
-Tampilan Aplikasi
+## Tampilan Aplikasi
 
