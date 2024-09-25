@@ -24,6 +24,8 @@ Berikut adalah link untuk menginstall aplikasinya
 
 ## Follow Me
 - [Instagram](https://www.instagram.com/tegrrp/)
+- [Facebook](https://www.facebook.com/profile.php?id=100029281401977&ref=xav_ig_profile_web)
+- [Linkedin](www.linkedin.com/in/tegar-ridwan-080510290)
 
 
 
