@@ -1,5 +1,5 @@
 # E-Journal Unipma
-
+Aplikasi android menggunakan flutter yang digunakan untuk melakukan absensi siswa prakerin
 <p>Aplikasi E-Journal Unipma</p>
 <p>Adalah aplikasi yang membantu siswa prakerin untuk absen dan menginput jurnal setiap kegiatanya</p>
 <p>Aplikasi ini menggunakan framework flutter dan firebase sebagai databasenya </p> 
